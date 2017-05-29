@@ -25,4 +25,3 @@ public class HeaderFooterApplication {
 		SpringApplication.run(HeaderFooterApplication.class, args);
 	}
 }
-
